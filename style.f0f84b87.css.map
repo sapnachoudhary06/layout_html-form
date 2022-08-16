@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,YACE,aAAc,CACd,kBACF,CAEA,QACE,kBACF,CAEA,iCACE,eACF","file":"style.f0f84b87.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.form-field {\n  display: block;\n  margin-bottom: 10px;\n}\n\n.groups {\n  margin-bottom: 20px;\n}\n\n.groups .form-field:last-of-type {\n  margin-bottom: 0;\n}\n"]}
